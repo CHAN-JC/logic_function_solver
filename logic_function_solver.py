@@ -214,9 +214,6 @@ def print_table(num_vars, prime_implicants, pi_set, epi_terms, epi_set, MINTERM)
     for i in combined:
         table.add_row(i)
 
-    # for i in table.draw():
-    #     print(i, end="")
-    #     time.sleep(0.000001)
     print(table.draw())
     print()
     symbol_groups = []
