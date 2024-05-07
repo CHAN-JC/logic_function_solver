@@ -312,7 +312,7 @@ def main():
     print("\nThe SOP expression of the logic function:")
     print_table(num_vars, prime_implicants, pi_set, epi_terms, epi_set, True)
     print()
-    print("_"*75)
+    print("_"*76)
     print()
     print("The POS expression of the logic function:")
     prime_implicants, pi_set = find_prime_implicants(num_vars, maxterms, maxterms_set)
