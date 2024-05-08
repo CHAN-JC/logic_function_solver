@@ -1,12 +1,12 @@
-# logic_function_solver
+# Logic Function Solver
 
 This is a logic function solver using Tabulation Method.
 
 ## For Windows
-python logic_function_solver.py
+`python logic_function_solver.py`
 
 ## For Linux
-python3 logic_function_solver.py
+`python3 logic_function_solver.py`
 
 ## Inputs
 1. The number of variables
